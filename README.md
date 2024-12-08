@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @foolishnekozzz
-- 👀 I’m interested in anything that helps the world better
-- 🌱 I’m currently learning cilium, coding, liunx, ...
+- 👀 I’m interested in cilium, coding, liunx, ...
 - ⚡ Fun fact: I'm just a lazy and foolish neko
 
 <!---
